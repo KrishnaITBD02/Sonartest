@@ -1,5 +1,5 @@
 sonar-scanner \
-  -Dsonar.projectKey=TESTNEW \
+  -Dsonar.projectKey=NEWW \
   -Dsonar.sources=. \
   -Dsonar.host.url=http://localhost:9000 \
-  -Dsonar.token=sqp_44a050facc0afd394c96886c2d5b71cf9b289250
+  -Dsonar.token=sqp_d618e66bf01e45f64404b2a847750b1f333b0b17
